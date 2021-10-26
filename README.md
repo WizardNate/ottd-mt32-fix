@@ -1,4 +1,5 @@
 # ottd-mt32-fix
+Work in progress.  I am working on editing the rest.
 An edited version of OpenTTD's Base midi music files to be played in Munt (or with real MT32 Unit).  
 Original files have terrible instrument selection, and missing tracks.
 ------------------------------------------------------------------------------------------
